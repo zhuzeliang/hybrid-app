@@ -1,7 +1,8 @@
 # hybrid-app
 
 hybrid混合开发
-## 顶部安全距离设置 HeaderEmpty
+
+### 顶部安全距离设置 HeaderEmpty
 
 ```
 <template>
@@ -125,7 +126,9 @@ export default {
     }
 </style>
 ```
-## 底部安全距离
+
+### 底部安全距离
+```
 <template>
     <div
         class="bottom-empty"
@@ -235,3 +238,4 @@ export default {
         .iphone12();
     }
 </style>
+```
